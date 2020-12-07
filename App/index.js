@@ -4,7 +4,7 @@ import main from "./js/main";
 // Servie Workers Registration
 if ("serviceWorker" in navigator) {
 	navigator.serviceWorker
-		.register("service-worker.js")
+		.register("service-workers.js")
 		.then(function (registration) {
 			console.log("Registered:", registration);
 		})
