@@ -1,0 +1,15 @@
+{
+  "name": "website-pwa-pertama",
+  "version": "1.0.0",
+  "description": "Website PWA Pertama",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "website",
+    "pwa"
+  ],
+  "author": "Azrilardian",
+  "license": "ISC"
+}
